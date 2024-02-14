@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-valentine/static/css/main.f855e6bc.css",
-    "main.js": "/react-valentine/static/js/main.c7c24bd0.js",
+    "main.css": "/react-valentine/static/css/main.45a877f1.css",
+    "main.js": "/react-valentine/static/js/main.fb780d0e.js",
     "static/js/592.eaadf68f.chunk.js": "/react-valentine/static/js/592.eaadf68f.chunk.js",
-    "static/media/logo.svg": "/react-valentine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Jikki.svg": "/react-valentine/static/media/Jikki.be065d7850e0bb3c164e55965ea0706a.svg",
     "index.html": "/react-valentine/index.html",
-    "main.f855e6bc.css.map": "/react-valentine/static/css/main.f855e6bc.css.map",
-    "main.c7c24bd0.js.map": "/react-valentine/static/js/main.c7c24bd0.js.map",
+    "main.45a877f1.css.map": "/react-valentine/static/css/main.45a877f1.css.map",
+    "main.fb780d0e.js.map": "/react-valentine/static/js/main.fb780d0e.js.map",
     "592.eaadf68f.chunk.js.map": "/react-valentine/static/js/592.eaadf68f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c7c24bd0.js"
+    "static/css/main.45a877f1.css",
+    "static/js/main.fb780d0e.js"
   ]
 }
